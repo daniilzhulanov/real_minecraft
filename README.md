@@ -6,6 +6,9 @@
 Игрок может нажать на кнопку (к ней привязана переменная Kurok), чтобы выстрелить стрелой из лука.
 Если выстрел попадает в зону мишени гаста, то это считается попаданием и засчитывается очко, после попадания происходит пауза, затем гаст продолжает движение.
 
+![Игра]([https://sun9-49.userapi.com/impf/vUR2BoEqxWBFxlS8bgegod-MgMnWHxT9cvgBVw/7VsKAznEPKc.jpg?size=1920x768&quality=95&crop=0,84,1000,399&sign=88e3cf3f330d2ae90aee2c89301d6698&type=cover_group](https://sun9-26.userapi.com/impg/1BDQnsHJCRRzOCYzz2X4gMKXgPWA9rA-fl274g/rYmHVk2v9Q8.jpg?size=1280x605&quality=95&sign=6c4b9553e0f2b5ea722c96e749fed3e4&type=album))
+
+
 Краткое описание кода:
 
 1. Активация системы
