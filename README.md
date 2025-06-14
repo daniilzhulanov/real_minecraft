@@ -1,3 +1,5 @@
+![Логотип](https://sun9-49.userapi.com/impf/vUR2BoEqxWBFxlS8bgegod-MgMnWHxT9cvgBVw/7VsKAznEPKc.jpg?size=1920x768&quality=95&crop=0,84,1000,399&sign=88e3cf3f330d2ae90aee2c89301d6698&type=cover_group)
+
 Программа реализует игру на ПЛК, в которой:
 
 На экране движется мишень-гаст из Майнкрафта (вверх-вниз).
