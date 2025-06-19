@@ -51,7 +51,6 @@
 ### 6. Обработка попадания
 
 - При активном `hitTrigger`:
-  - Все скорости мишени (`targetSpeedX1–targetSpeedX6`, `targetSpeedY1–targetSpeedY6`) сбрасываются в 0.
   - Запускается таймер `hitPulseTimer` на 2 секунды.
   - По окончании таймера `hitTrigger` сбрасывается, игра продолжается.
 
